@@ -3,10 +3,10 @@ public class Variants {
 
 	public static void main(String[] args) {
 		System.out.println("There are following variants:");
-		System.out.println("\n- Variant 1");
-		System.out.println("\n- Variant 2");
-		System.out.println("\n- Variant 3");
-		System.out.println("\n- Variant 4");
+		System.out.println("- Variant 1");
+		System.out.println("- Variant 2");
+		System.out.println("- Variant 3");
+		System.out.println("- Variant 4");
 	}
 
 }
