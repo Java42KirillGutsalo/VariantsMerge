@@ -5,6 +5,7 @@ public class Variants {
 		System.out.println("There are following variants:");
 		System.out.println("\n- Variant 1");
 		System.out.println("\n- Variant 2");
+		System.out.println("\n- Variant 3");
 	}
 
 }
