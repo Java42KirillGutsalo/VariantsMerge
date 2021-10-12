@@ -1,4 +1,4 @@
-
+// V.R. Looks very good!
 public class Variants {
 
 	public static void main(String[] args) {
